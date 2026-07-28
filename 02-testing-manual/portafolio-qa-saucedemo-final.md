@@ -166,6 +166,4 @@ Todos los casos fueron ejecutados con `standard_user`. Resultado: **12/12 Pass**
 - Distribución de severidad: **5 Alta**, **3 Media**.
 - Todos los bugs afectan directamente la experiencia de compra (catálogo, carrito o checkout), lo que los convierte en hallazgos relevantes desde la perspectiva del negocio.
 
-## 5. Pendientes antes de publicar en el portafolio
-1. Agregar capturas de pantalla reales como evidencia en cada bug report.
-2. (Opcional, siguiente nivel) Cargar estos bugs en una herramienta real como Jira o TestRail (versión gratuita) para mostrar manejo de herramientas de la industria, no solo documentación en Markdown.
+
