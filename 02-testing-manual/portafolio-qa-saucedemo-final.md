@@ -71,7 +71,7 @@ Todos los casos fueron ejecutados con `standard_user`. Resultado: **12/12 Pass**
 | Severidad | Media |
 | Prioridad | Alta |
 | Entorno | Chrome, usuario problem_user |
-| Evidencia | *(agregar captura de pantalla)* |
+| Evidencia | ![Bug 001 - Imagen incorrecta de producto](./evidencia/bug-001.png) |
 
 ### BUG-002
 | Campo | Detalle |
@@ -83,7 +83,7 @@ Todos los casos fueron ejecutados con `standard_user`. Resultado: **12/12 Pass**
 | Severidad | Alta |
 | Prioridad | Alta |
 | Entorno | Chrome, usuario problem_user |
-| Evidencia | *(agregar captura de pantalla)* |
+| Evidencia | ![Bug 002 - Página Item Not Found](./evidencia/bug-002.png) |
 
 ### BUG-003
 | Campo | Detalle |
@@ -95,7 +95,7 @@ Todos los casos fueron ejecutados con `standard_user`. Resultado: **12/12 Pass**
 | Severidad | Alta |
 | Prioridad | Alta |
 | Entorno | Chrome, usuario problem_user |
-| Evidencia | *(agregar captura de pantalla)* |
+| Evidencia | ![Bug 003 - Productos no agregables al carrito](./evidencia/bug-003.png) |
 
 ### BUG-004
 | Campo | Detalle |
@@ -107,7 +107,7 @@ Todos los casos fueron ejecutados con `standard_user`. Resultado: **12/12 Pass**
 | Severidad | Alta |
 | Prioridad | Alta |
 | Entorno | Chrome, usuario problem_user |
-| Evidencia | *(agregar captura de pantalla)* |
+| Evidencia | ![Bug 004 - Botón Remove no responde desde el catálogo](./evidencia/bug-004.png) |
 
 ### BUG-005
 | Campo | Detalle |
@@ -119,7 +119,7 @@ Todos los casos fueron ejecutados con `standard_user`. Resultado: **12/12 Pass**
 | Severidad | Media |
 | Prioridad | Alta |
 | Entorno | Chrome, usuario problem_user |
-| Evidencia | *(agregar captura de pantalla)* |
+| Evidencia | ![Bug 005 - Precios incorrectos en el catálogo](./evidencia/bug-005.png) |
 
 ### BUG-006
 | Campo | Detalle |
@@ -131,7 +131,7 @@ Todos los casos fueron ejecutados con `standard_user`. Resultado: **12/12 Pass**
 | Severidad | Media |
 | Prioridad | Alta |
 | Entorno | Chrome, usuario problem_user |
-| Evidencia | *(agregar captura de pantalla)* |
+| Evidencia | ![Bug 006 - Detalle de producto muestra información incorrecta](./evidencia/bug-006.png) |
 
 ### BUG-007
 | Campo | Detalle |
@@ -143,7 +143,7 @@ Todos los casos fueron ejecutados con `standard_user`. Resultado: **12/12 Pass**
 | Severidad | Alta |
 | Prioridad | Alta |
 | Entorno | Chrome, usuario problem_user |
-| Evidencia | *(agregar captura de pantalla)* |
+| Evidencia | ![Bug 007 - Botón Add to cart no responde en Bolt T-Shirt](./evidencia/bug-007.png) |
 
 ### BUG-008
 | Campo | Detalle |
@@ -155,7 +155,7 @@ Todos los casos fueron ejecutados con `standard_user`. Resultado: **12/12 Pass**
 | Severidad | Alta |
 | Prioridad | Alta |
 | Entorno | Chrome, usuario problem_user |
-| Evidencia | *(agregar captura de pantalla)* |
+| Evidencia | ![Bug 008 - Checkout borra el campo First Name al completar Last Name](./evidencia/bug-008.png) |
 
 ---
 
