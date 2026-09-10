@@ -11,6 +11,10 @@ desarrollados como parte de mi formación en Ingeniería en Informática.
 
 - [03-sql](./03-sql/) — Queries SQL orientadas a testing de un escenario bancario (cuentas, clientes, transacciones)
 
+
+- [04-api-testing](./04-api-testing/) — Colección de Postman con 9 casos de prueba 
+  (positivos y negativos) sobre la API reqres.in, incluyendo assertions automatizadas.
+
 ## Sobre mí
 
 Estudiante de Ingeniería en Informática, actualmente enfocado en QA 
