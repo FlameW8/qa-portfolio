@@ -78,10 +78,3 @@ pm.test("La respuesta contiene datos", function () {
 
 ---
 
-## Aprendizajes clave de esta fase
-
-- Diferencia entre los 4 métodos HTTP principales (GET, POST, PUT, DELETE) y cuándo usar cada uno
-- Interpretación de status codes: 2xx (éxito), 4xx (error del cliente), 5xx (error del servidor)
-- Diseño de casos de prueba **negativos** en API testing (body vacío, campos faltantes, IDs inexistentes) — tan importantes como los casos positivos
-- Uso de assertions automáticas en Postman (`pm.test`) para no depender de inspección visual manual del JSON
-- Diferencia entre una API de práctica funcional (`reqres.in`, que simula un backend real) y una API de "eco" (`postman-echo.com`, que solo refleja lo enviado sin lógica de negocio)
