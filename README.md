@@ -15,6 +15,11 @@ desarrollados como parte de mi formación en Ingeniería en Informática.
 - [04-api-testing](./04-api-testing/) — Colección de Postman con 9 casos de prueba 
   (positivos y negativos) sobre la API reqres.in, incluyendo assertions automatizadas.
 
+- [05-automation](./05-automation/) — Framework de automatización con Playwright y Python, 
+  usando Page Object Model. Incluye 5 tests automatizados (login exitoso, login fallido, 
+  agregar al carrito, y flujo completo de checkout) y reporte HTML de ejecución.
+  
+
 ## Sobre mí
 
 Estudiante de Ingeniería en Informática, actualmente enfocado en QA 
